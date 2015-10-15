@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPrefs</string>
+    <string name="saved_name">name</string>
+    <string name="saved_sound">sound</string>
+    <string name="saved_threshold">threshold</string>
+    <string name="save">Submit</string>
+
+
+
+
+</resources>
